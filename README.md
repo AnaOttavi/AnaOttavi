@@ -9,11 +9,17 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
 **Data Collect:** SQL, MySQL, Postgres, SQLite.
 
-**Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
-
 **Data Visualization:** Power BI, Streamlit, Tableau.
 
-**Machine Learning Modeling** Regression, Classification, Clustering.
+**Big Data:** Spark.
 
-**Machine Learning Deployment** Heroku.
+**MS Office:** Word, Excel, PowerPoint.
+
+**Data Processing and Analysis:** R (tidyverse, ggplot2, caret, dplyr, e1071), Python (pandas, NumPy, matplotlib, seaborn, scikity-learn).
+
+**Statistics:** descriptive, predictive.
+
+**Machine Learning Modeling:** regression, classification, clustering.
+
+**Machine Learning Deployment:** Heroku.
 

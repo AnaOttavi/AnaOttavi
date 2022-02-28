@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science/ Business Analytics
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/anacarolinaottavi/
+- Medium: https://medium.com/@anacarolinaottavi
 
 I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
 

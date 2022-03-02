@@ -8,7 +8,7 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
 **Analytical Tools:**
 
-**Data Collect:** SQL, MySQL, Postgres, SQLite.
+**Data Collect:** MySQL, Postgres, SQLite.
 
 **Data Visualization:** Power BI, Streamlit, Tableau.
 
